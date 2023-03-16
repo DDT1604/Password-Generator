@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import random
 
 def generator_password(password_length):
